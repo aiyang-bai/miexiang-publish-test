@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "miexiang-publish-e2e",
+  "version": "20260924-fix01-r4",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-09-24T10:46:04Z",
+  "published_at": "2026-09-24T10:46:49Z",
+  "verified_at": "2026-09-24T10:46:04Z",
+  "display_name": "Miexiang FIX01 harmless probe 1 MiB",
+  "artifact_name": "miexiang-publish-e2e-20260924-fix01-r4.bin",
+  "size": 1048576,
+  "sha256": "40a5a6a43c436be6f45bcd50e0b11178e98b887dfcf2e7f7659a5ea09fca897f",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-fix01-r4/miexiang-publish-e2e-20260924-fix01-r4.bin",
+  "remote_sha256": "40a5a6a43c436be6f45bcd50e0b11178e98b887dfcf2e7f7659a5ea09fca897f",
+  "verification_status": "VERIFIED",
+  "release_notes": "Harmless test release for Generic Publish D1 FIX01.",
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "miexiang-publish-e2e-20260924-fix01-r4.bin",
+      "display_name": "Miexiang FIX01 harmless probe 1 MiB",
+      "size_bytes": 1048576,
+      "sha256": "40a5a6a43c436be6f45bcd50e0b11178e98b887dfcf2e7f7659a5ea09fca897f",
+      "content_type": "application/octet-stream"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-fix01-r4/miexiang-publish-e2e-20260924-fix01-r4.bin",
+      "published_at": "2026-09-24T10:46:49Z",
+      "remote_verified_at": "2026-09-24T10:46:04Z",
+      "verified_sha256": "40a5a6a43c436be6f45bcd50e0b11178e98b887dfcf2e7f7659a5ea09fca897f"
+    }
+  ]
+}
