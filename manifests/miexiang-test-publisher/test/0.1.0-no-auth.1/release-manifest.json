@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "miexiang-test-publisher",
+  "version": "0.1.0-no-auth.1",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-09-24T09:42:38Z",
+  "published_at": "2026-09-24T09:43:22Z",
+  "verified_at": "2026-09-24T09:42:38Z",
+  "display_name": "artifact.bin",
+  "artifact_name": "miexiang-test-publisher-0.1.0-no-auth.1.bin",
+  "size": 26,
+  "sha256": "da5b5869ecd6c83b2036950086e4ea331977ea2b52f6ccb3f3e7836ca6537ee6",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-test-publisher-0.1.0-no-auth.1/miexiang-test-publisher-0.1.0-no-auth.1.bin",
+  "remote_sha256": "da5b5869ecd6c83b2036950086e4ea331977ea2b52f6ccb3f3e7836ca6537ee6",
+  "verification_status": "VERIFIED",
+  "release_notes": null,
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "miexiang-test-publisher-0.1.0-no-auth.1.bin",
+      "display_name": "artifact.bin",
+      "size_bytes": 26,
+      "sha256": "da5b5869ecd6c83b2036950086e4ea331977ea2b52f6ccb3f3e7836ca6537ee6",
+      "content_type": "application/octet-stream"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-test-publisher-0.1.0-no-auth.1/miexiang-test-publisher-0.1.0-no-auth.1.bin",
+      "published_at": "2026-09-24T09:43:22Z",
+      "remote_verified_at": "2026-09-24T09:42:38Z",
+      "verified_sha256": "da5b5869ecd6c83b2036950086e4ea331977ea2b52f6ccb3f3e7836ca6537ee6"
+    }
+  ]
+}
