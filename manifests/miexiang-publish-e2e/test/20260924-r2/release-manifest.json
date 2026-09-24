@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "miexiang-publish-e2e",
+  "version": "20260924-r2",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-09-24T06:31:58Z",
+  "published_at": "2026-09-24T06:32:40Z",
+  "verified_at": "2026-09-24T06:31:58Z",
+  "display_name": "Miexiang harmless probe 1 MiB",
+  "artifact_name": "miexiang-publish-e2e-20260924-r2.bin",
+  "size": 1048576,
+  "sha256": "81e4e85930b4cfa1b36380b69f5136f379625b4c5d1f688f5d3fe1dd7835b55b",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-r2/miexiang-publish-e2e-20260924-r2.bin",
+  "remote_sha256": "81e4e85930b4cfa1b36380b69f5136f379625b4c5d1f688f5d3fe1dd7835b55b",
+  "verification_status": "VERIFIED",
+  "release_notes": "Harmless 1 MiB provider transfer fixture.",
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "miexiang-publish-e2e-20260924-r2.bin",
+      "display_name": "Miexiang harmless probe 1 MiB",
+      "size_bytes": 1048576,
+      "sha256": "81e4e85930b4cfa1b36380b69f5136f379625b4c5d1f688f5d3fe1dd7835b55b",
+      "content_type": "application/octet-stream"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-r2/miexiang-publish-e2e-20260924-r2.bin",
+      "published_at": "2026-09-24T06:32:40Z",
+      "remote_verified_at": "2026-09-24T06:31:58Z",
+      "verified_sha256": "81e4e85930b4cfa1b36380b69f5136f379625b4c5d1f688f5d3fe1dd7835b55b"
+    }
+  ]
+}
