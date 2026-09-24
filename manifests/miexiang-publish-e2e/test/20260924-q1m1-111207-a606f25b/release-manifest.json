@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "miexiang-publish-e2e",
+  "version": "20260924-q1m1-111207-a606f25b",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-09-24T12:32:07Z",
+  "published_at": "2026-09-24T12:32:50Z",
+  "verified_at": "2026-09-24T12:32:07Z",
+  "display_name": "Miexiang Q1-M1 harmless probe 1 MiB",
+  "artifact_name": "miexiang-publish-e2e-20260924-q1m1-111207-a606f25b.bin",
+  "size": 1048576,
+  "sha256": "4d5d4f438d076298e7e728bc4449f1fa73d4e6120574a13db4a8ef0d6e8e6ae9",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-q1m1-111207-a606f25b/miexiang-publish-e2e-20260924-q1m1-111207-a606f25b.bin",
+  "remote_sha256": "4d5d4f438d076298e7e728bc4449f1fa73d4e6120574a13db4a8ef0d6e8e6ae9",
+  "verification_status": "VERIFIED",
+  "release_notes": "Harmless test-only smoke for FIX-01 independent verification.",
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "miexiang-publish-e2e-20260924-q1m1-111207-a606f25b.bin",
+      "display_name": "Miexiang Q1-M1 harmless probe 1 MiB",
+      "size_bytes": 1048576,
+      "sha256": "4d5d4f438d076298e7e728bc4449f1fa73d4e6120574a13db4a8ef0d6e8e6ae9",
+      "content_type": "application/octet-stream"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-q1m1-111207-a606f25b/miexiang-publish-e2e-20260924-q1m1-111207-a606f25b.bin",
+      "published_at": "2026-09-24T12:32:50Z",
+      "remote_verified_at": "2026-09-24T12:32:07Z",
+      "verified_sha256": "4d5d4f438d076298e7e728bc4449f1fa73d4e6120574a13db4a8ef0d6e8e6ae9"
+    }
+  ]
+}
