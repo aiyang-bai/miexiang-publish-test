@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "miexiang-publish-e2e",
+  "version": "20260924-r3",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-09-24T06:38:22Z",
+  "published_at": "2026-09-24T06:39:07Z",
+  "verified_at": "2026-09-24T06:38:22Z",
+  "display_name": "Miexiang Windows EXE fixture",
+  "artifact_name": "miexiang-publish-e2e-20260924-r3.exe",
+  "size": 3584,
+  "sha256": "cb8bde5e8601216a9df090d3276f6569da50c5c9fd6467ad63c4739fa930643d",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-r3/miexiang-publish-e2e-20260924-r3.exe",
+  "remote_sha256": "cb8bde5e8601216a9df090d3276f6569da50c5c9fd6467ad63c4739fa930643d",
+  "verification_status": "VERIFIED",
+  "release_notes": "Disposable Windows PE fixture for provider E2E.",
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "miexiang-publish-e2e-20260924-r3.exe",
+      "display_name": "Miexiang Windows EXE fixture",
+      "size_bytes": 3584,
+      "sha256": "cb8bde5e8601216a9df090d3276f6569da50c5c9fd6467ad63c4739fa930643d",
+      "content_type": "application/x-msdownload"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-miexiang-publish-e2e-20260924-r3/miexiang-publish-e2e-20260924-r3.exe",
+      "published_at": "2026-09-24T06:39:07Z",
+      "remote_verified_at": "2026-09-24T06:38:22Z",
+      "verified_sha256": "cb8bde5e8601216a9df090d3276f6569da50c5c9fd6467ad63c4739fa930643d"
+    }
+  ]
+}
