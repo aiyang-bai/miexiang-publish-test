@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "image-basic-test",
+  "version": "r8",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-09-25T15:12:43Z",
+  "published_at": "2026-09-25T15:13:22Z",
+  "verified_at": "2026-09-25T15:12:43Z",
+  "display_name": "咩想图片工作台基础出图专项助手 R8",
+  "artifact_name": "image-basic-test-r8.zip",
+  "size": 94379939,
+  "sha256": "127680f3135d347d53d617f178a18ce3ca98ccd70fda8e92905f7f5aafffa9c5",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-image-basic-test-r8/image-basic-test-r8.zip",
+  "remote_sha256": "127680f3135d347d53d617f178a18ce3ca98ccd70fda8e92905f7f5aafffa9c5",
+  "verification_status": "VERIFIED",
+  "release_notes": "基础出图专项测试助手；本地模型现场下载，网页连接修复由公网静态版本提供。",
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "image-basic-test-r8.zip",
+      "display_name": "咩想图片工作台基础出图专项助手 R8",
+      "size_bytes": 94379939,
+      "sha256": "127680f3135d347d53d617f178a18ce3ca98ccd70fda8e92905f7f5aafffa9c5",
+      "content_type": "application/x-zip-compressed"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-image-basic-test-r8/image-basic-test-r8.zip",
+      "published_at": "2026-09-25T15:13:22Z",
+      "remote_verified_at": "2026-09-25T15:12:43Z",
+      "verified_sha256": "127680f3135d347d53d617f178a18ce3ca98ccd70fda8e92905f7f5aafffa9c5"
+    }
+  ]
+}
