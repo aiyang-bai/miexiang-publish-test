@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "image-basic-test",
+  "version": "20260926-basic-r11-origin-fix",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-09-25T21:37:21Z",
+  "published_at": "2026-09-25T21:38:05Z",
+  "verified_at": "2026-09-25T21:37:21Z",
+  "display_name": "咩想基础版本地助手 r11 修复候选",
+  "artifact_name": "image-basic-test-20260926-basic-r11-origin-fix.zip",
+  "size": 94570514,
+  "sha256": "7a677561c2c7dc8f645585e5b189dfdda078a3553d64675ef034fb5e6c24b1a0",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-image-basic-test-20260926-basic-r11-origin-fix/image-basic-test-20260926-basic-r11-origin-fix.zip",
+  "remote_sha256": "7a677561c2c7dc8f645585e5b189dfdda078a3553d64675ef034fb5e6c24b1a0",
+  "verification_status": "VERIFIED",
+  "release_notes": "修复桥接来源许可与启动竞态；用于基础版外部 CPU 实验测试。",
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "image-basic-test-20260926-basic-r11-origin-fix.zip",
+      "display_name": "咩想基础版本地助手 r11 修复候选",
+      "size_bytes": 94570514,
+      "sha256": "7a677561c2c7dc8f645585e5b189dfdda078a3553d64675ef034fb5e6c24b1a0",
+      "content_type": "application/x-zip-compressed"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-image-basic-test-20260926-basic-r11-origin-fix/image-basic-test-20260926-basic-r11-origin-fix.zip",
+      "published_at": "2026-09-25T21:38:05Z",
+      "remote_verified_at": "2026-09-25T21:37:21Z",
+      "verified_sha256": "7a677561c2c7dc8f645585e5b189dfdda078a3553d64675ef034fb5e6c24b1a0"
+    }
+  ]
+}
