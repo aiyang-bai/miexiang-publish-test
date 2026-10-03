@@ -1,0 +1,41 @@
+{
+  "schema": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "schema_version": "MIEXIANG_RELEASE_MANIFEST_V1",
+  "product_id": "qwen-image-studio",
+  "version": "2.1.182-direct-local-r1",
+  "channel": "test",
+  "release_channel": "test",
+  "generated_at": "2026-10-03T15:39:41Z",
+  "published_at": "2026-10-03T15:39:25Z",
+  "verified_at": "2026-10-03T15:39:41Z",
+  "display_name": "咩想图片工作台 本地助手 Direct Local R1",
+  "artifact_name": "qwen-image-studio-2.1.182-direct-local-r1.zip",
+  "size": 107381525,
+  "sha256": "c6f032b06e735cc254dc9cfa129a64bd01c2ad7c95d01600b7cc5bf5e1be411c",
+  "provider": "github-releases",
+  "remote_url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-qwen-image-studio-2.1.182-direct-local-r1/qwen-image-studio-2.1.182-direct-local-r1.zip",
+  "remote_sha256": "c6f032b06e735cc254dc9cfa129a64bd01c2ad7c95d01600b7cc5bf5e1be411c",
+  "verification_status": "VERIFIED",
+  "release_notes": "Independent portable candidate for Owner direct launch acceptance. Existing TEST R2 remains unchanged.",
+  "mirror_policy": "required",
+  "artifacts": [
+    {
+      "filename": "qwen-image-studio-2.1.182-direct-local-r1.zip",
+      "display_name": "咩想图片工作台 本地助手 Direct Local R1",
+      "size_bytes": 107381525,
+      "sha256": "c6f032b06e735cc254dc9cfa129a64bd01c2ad7c95d01600b7cc5bf5e1be411c",
+      "content_type": "application/x-zip-compressed"
+    }
+  ],
+  "providers": [
+    {
+      "provider": "github-releases",
+      "role": "mirror",
+      "status": "VERIFIED",
+      "url": "https://github.com/aiyang-bai/miexiang-publish-test/releases/download/test-miexiang-generic-publish-qwen-image-studio-2.1.182-direct-local-r1/qwen-image-studio-2.1.182-direct-local-r1.zip",
+      "published_at": "2026-10-03T15:39:25Z",
+      "remote_verified_at": "2026-10-03T15:39:41Z",
+      "verified_sha256": "c6f032b06e735cc254dc9cfa129a64bd01c2ad7c95d01600b7cc5bf5e1be411c"
+    }
+  ]
+}
